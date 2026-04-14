@@ -1,0 +1,2 @@
+# JavaCoderPadProblems
+Solving JAVA questions
